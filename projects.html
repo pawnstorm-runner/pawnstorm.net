@@ -1,0 +1,12 @@
+---
+title: Projects
+---
+
+{% for project in site.projects reversed %}
+  <div class="listTitle singleLine"><a href="{{ project.url }}" class="list">{{ project.title }}</a></div>
+  <div class="projectExcerpt">{{ project.excerpt }}</div>
+{% endfor %}
+
+<br /><br /><hr /><br />
+
+<p>Currently there isn't much here, but in the future I hope to post some information about stuff I've made such as the climbing wall in my garage, simple cinder block raised garden beds, and a board game I designed.</p>

@@ -1,0 +1,21 @@
+---
+title: "Story Idea: The Silent and The Dead"
+date: "2014-03-17"
+author: tom
+---
+
+Okay, let's say that there's a zombie outbreak and virtually everyone gets infected (99% or more).  What would that look like? I'm going to use Olympia as an example, as that is where I live.
+
+The average population density of Thurston County (where Olympia is located) is 347 people/square mile. This could be better (the average for the US is 88) but it could be a whole lot worse (Los Angeles County has a population density of 2,100 people/square mile). Assuming "Walking Dead" style zombies, with a small group, you should be able to clear a square mile without too much trouble over the course of a week. The problem comes in when people get guns. Something like an assault rifle might be audible as far away as five miles. With sustained shooting, it isn't unreasonable to assume that you would draw every zombie within a three mile radius. Not so bad, right? Wrong. A three mile radius gives you an area of a little over 28 square miles, with 347 zombies per square mile, you're talking about nearly 10,000 zombies.
+
+Now, let's say that you're a survivalist shooting zombies from their roof. Even with a 100% accuracy rate, you would be talking about 10,000 rounds, and at 28 pounds/1000 rounds, you would be talking about 280 pounds of ammunition, just to give you an idea of the amount of supplies you would need. Furthermore, what would 10,000 zombies look like? Shoulder to shoulder, that many people would take up something like one and a half football fields. In any case, I think that you get the picture. Things would not be good for our lone survivalist with his buried gold, canned food, and mountain of ammunition. I wouldn't write about him.
+
+Instead, I would write about the sort of group that would survive the math of the situation. They would need to be competent, not necessarily at killing zombies, but in organizing themselves as a group. A disorganized or fractious group of people with weapons doesn't have many more choices than the a single armed person (in fact they may even have fewer, as their resource footprint would increase with their size). Weapons are force multipliers for individuals. Organization, on the other hand, is a force multiplier for groups.
+
+The group would find a defensible place with a source of fresh water (and as far from survivalist types as practicable), and they would secure that area as quietly as possible, then gradually move out, clearing the area around them.  Once they had carved out a large enough area for themselves, they would create zombie traps, basically pits with sound emitting things (perhaps a shishi odishi for zombies?) scattered around the area's perimeter. Every day or so, someone would head out the pits, dump in some gasoline, and burn the day's zombies.
+
+Wouldn't they need that gasoline for their cars? No. First of all, gasoline goes bad and eventually will not work in your engines (but will probably still be viable for burning some zombies). Second, cars are loud (see the bit about drawing zombies to you above) and require cleared roads or paths. Finally, gasoline production would cease at the zombie outbreak (or shortly thereafter), and the group would soon find itself scavenging farther and farther away just to fuel their vehicles.
+
+So what sort of stories would take place in this setting? First of all, there wouldn't be much soap opera (which isn't to say that it would be entirely absent, either), as it requires a fractious group and would likely get everyone killed before long. Instead, the story would probably focus on the various struggles from within the group, such as how decisions are made, and how to deal with divisive issues (51-49 votes are terrible for morale, see congress). The group would have to decide on its relationship to other survivors. I'm sure that there would be plenty of stories to tell in this setting. The main difference is that it wouldn't be as annoying as much of what you see being made these days, which either assumes that people are basically bad (it seems to me that our world is an example of the opposite) or that people want to watch petty squabbling, or both.
+
+In any case, I probably won't write this, or at least not any time soon, but wanted to share the ideas anyway. If you want to write it, feel free.

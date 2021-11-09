@@ -1,0 +1,19 @@
+a.nav:link { text-decoration: none; }
+a.nav:visited { text-decoration: none; }
+a.nav:hover { text-decoration: underline; }
+a.nav:active { text-decoration: underline; }
+
+.navGrid {
+  display: flex;
+  justify-content: space-evenly;
+  flex-wrap: wrap;
+}
+.grid > div {
+
+}
+
+.navlink {
+  padding-bottom: 1rem;
+  padding-left: 0.5rem;
+  padding-right: 0.5rem;
+}

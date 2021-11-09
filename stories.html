@@ -1,0 +1,17 @@
+---
+title: Stories
+---
+{% for story in site.stories %}
+  <div class="listTitle singleLine storyTitle"><a href="{{ story.url }}" class="list">{{ story.title }}</a></div>
+  <div class="storyGrid">
+    <div class="hideOverflow">{{ story.genre }}</div>
+    <div class="lastColumn">
+      {% if story.wordcount == "Series" %}
+        Series
+      {% else %}
+        {{ story.wordcount | divided_by: 200 }} minute read
+      {% endif %}
+    </div>
+    <div class="storyExcerpt">{{ story.excerpt }}</div>
+  </div>
+{% endfor %}

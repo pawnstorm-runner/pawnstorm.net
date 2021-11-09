@@ -1,0 +1,11 @@
+.blogGrid {
+  display: grid;
+  grid-template-columns: auto auto;
+  grid-gap: 1rem;
+  padding-top: 1rem;
+  align-items: center;
+}
+
+.grid > div {
+
+}

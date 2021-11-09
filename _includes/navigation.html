@@ -1,0 +1,17 @@
+<nav>
+  <div class="navGrid">
+    {% for item in site.data.navigation %}
+      <div class="navlink">
+        <a href="{{ item.link }}"
+          {% if page.url == item.link %}class="current nav"
+          {% elsif item.name == "Blog" and page.collection == "posts" %}class="current nav"
+          {% elsif item.name == "Stories" and page.collection == "stories" %}class="current nav"
+          {% elsif item.name == "Stories" and page.collection == "horizon" %}class="current nav"
+          {% elsif item.name == "Projects" and page.collection == "projects" %}class="current nav"
+          {% endif %} class="nav">
+        {{ item.name }}
+        </a>
+      </div>
+    {% endfor %}
+  </div>
+</nav>

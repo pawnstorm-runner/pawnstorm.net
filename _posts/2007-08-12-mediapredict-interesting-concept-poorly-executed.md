@@ -1,0 +1,17 @@
+---
+title: "MediaPredict: Interesting Concept, Poorly Executed"
+date: "2007-08-12"
+author: tom
+---
+
+I just [read](http://www.lemodesittjr.com/blogs/blog/2007/08/mediapredict-end-of-literature-or-even.html "End of Literature or Even Just Good Books") an interesting bit by L.E. Modesitt about MediaPredict. He had some good points, and for the most part I agree with what he said, but I have a couple of things to add:
+
+First of all, I would say that the one issue I have is his suggestion that people who prefer to read books via an electronic medium are likely to have a significantly different mindset about fiction than people who prefer the traditional method.  I agree that they do probably have a different mindset, but I don't see how you get from there to saying that the difference is significant.  One way to look at the difference between the two is that it is like audio books vs. traditional books.  It could be argued that audio book listeners have a vastly different experience than readers, as they are listening to voices (with inflection and the like) and it is difficult to review a passage when one is listening to it.  On the other hand, there is very little difference between the physical process of reading on a screen as opposed to reading on a page, all it amounts to is packaging, not so different from people who prefer hardbacks and people who prefer trade paper backs.
+
+That being said, I still think that his conclusion stands.  I think that the role of editor isn't going to be replaced by that of the focus group any time soon, and for the exact reason that L.E. mentioned, namely that they are concentrated, persistent players in the publishing industry.  Persistent really is the key term here, as editors can make judgments informed by history (both their own and that of the industry), that casual readers simply cannot.
+
+So what role do readers have in publishing (aside from being, well, readers)?  As technology makes it easier for authors to reach a wide audience prior to actual publication, editors will be able to start looking at authors' pre-commercial success as an initial filtering tool.  What this means is that if Author X starts to release fiction for free on the internet, and it achieves some measure of popularity, then an editor will be able to look at that and use it as a gauge to help decide which manuscript to read first.  Of course, the more we move in this direction, the more we move away from the ideal situation of each work being judged on it's own merits.  That ideal situation hasn't been the case for a long time (if it ever was), though, and so it makes sense for us to have the best tools possible to minimize the inevitable problems with our system (good work getting overlooked).  At the other end of the spectrum, it should help editors evaluate books that don't fit very well into any one category, but that readers love anyway.
+
+The important point is that how publishers acquire books will be changing in the near future, whether they like it or not.  I once heard the Porsche 911 described by a mechanic as a bad idea, wonderfully executed (the whole rear engine thing is a bit strange, if you ask me), and I think that the opposite is true here, MediaPredict is an interesting idea, but the execution is lacking.
+
+A note: this selection process by means of free fiction is already happening, to some extent.  A good example would be [Scott Sigler's](http://www.scottsigler.net/ "Scott Sigler") Ancestor getting a book deal after it was a huge success in the podcasting world.

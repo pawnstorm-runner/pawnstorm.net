@@ -1,0 +1,11 @@
+.PageNavigation {
+  display: flex;
+  width: auto;
+  overflow: hidden;
+  justify-content: space-between;
+  padding-top: 1rem;
+}
+
+.PageNavigation .prev {
+  text-align: right;
+}

@@ -1,0 +1,17 @@
+---
+title: "The Blurring Line Between Science Fiction and Fantasy"
+date: "2008-04-23"
+author: tom
+---
+
+In response to one of my posts yesterday, crochetyoldfan [noted](http://crotchetyoldfan.wordpress.com/2008/04/23/quickies/) that it looked like I was espousing the view that the line between Science Fiction and Fantasy is being blurred (the rest of his blog is interesting as well). Although I hadn't been thinking about that topic while I was writing, it is one that I have meant to write about for some time now, so now is as good a time as any.
+
+First of all, I am not saying that Science Fiction and Fantasy are merging, unless you consider bringing them both under the banner of Speculative Fiction achieves that (which I don't). What I am saying is that they share more similarities than differences. There are several reasons for this.
+
+The first is that there is considerable overlap in goals. As I mentioned [yesterday]({% post_url 2008-04-22-the-purpose-of-science-fiction %}), one of the primary goals (in my opinion) for Science Fiction is to take current situations and remove the social baggage that is attached to them so that we can look at them from a fresh perspective. This definitely carries over to fantasy. There is room for debate as to which situations are best dealt with by which genres, but I would be surprised to see many fans of either genre say that either one is incapable of doing this.
+
+The second reason is that both genres inherently contain elements of the others. For example, take Faster Than Light, right now it is as much fantasy as it is science fiction. On the other hand, what makes magic systems work for readers has a lot to do with how consistently they are presented, similar to the way an SF author will extrapolate science and technology to present a compelling vision of the future.
+
+My final reason is that technology today has reached a level of incomprehensibility that effectively renders it magic to the majority of the population. This is not to make the elitist argument that people are stupid or ignorant, but merely that you have to have a compelling interest in technology to actually go to the trouble of understanding it (and a lot of this probably has to do with our education system, but that's another discussion). Most people could not tell you what a horsepower is or what clock speed means, much less explain something like cryptography, although these things all figure prominently into our daily lives. As a result, the perspective of a person reading about magic and looking at technology will become increasingly similar.
+
+So is this blurring of boundaries good or bad? One could make the argument that it is simply the result of the growth of the genres and as such can't be classified as either good or bad, but I would disagree. I believe that both of the genres are important, both as forms of entertainment as well as art that is meant to make the world(s) a better place. Very little bothers me more than when I see Science Fiction fans/authors bashing Fantasy or the reverse, usually with claims of things like escapism, as though one genre can gain some legitimacy by bashing the other. Both of them are valid, and every second spent criticizing any genre or art form is a moment that could be much better spent promoting whatever it is that you enjoy. The world is a messed up place, and if we are to have any expectation of progress, it can only come about if we abandon our prejudices, whether they be about race, sex, religion, or art.

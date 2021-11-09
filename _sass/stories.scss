@@ -1,0 +1,23 @@
+.storyGrid {
+  display: grid;
+  grid-template-columns: auto auto;
+  padding-top: 0.5rem;
+  padding-left: 1rem;
+  padding-right: .75rem;
+  padding-bottom: 0.5rem;
+  align-items: center;
+  row-gap: 0.25rem;
+}
+.grid > div {
+
+}
+
+.storyExcerpt {
+  grid-column-start: 1;
+  grid-column-end: span 2;
+  font-size: 95%;
+}
+
+.storyTitle {
+  font-size: 110%;
+}

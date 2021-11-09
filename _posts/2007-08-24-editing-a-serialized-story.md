@@ -1,0 +1,15 @@
+---
+title: "Thoughts on Editing a Serialized Story"
+date: "2007-08-24"
+author: tom
+---
+
+For all of its advantages, serializing a novel on the internet has two inherent drawbacks. The first is editing, and the second is publicity, which I will cover next week.
+
+Why do I say editing? Because, when you put something out yourself, there is no editor. Many writers (especially unpublished ones) dislike editors due to their status as the gatekeepers of the publishing industry. They do serve an important purpose, though. A good professional editor will be able to look at a manuscript and see the problems, problems which the author is often blind to. That is not to say that editors always do a good job, just that they serve an important purpose in publishing, and the task of editing is to be taken seriously.
+
+So, how do you do a good job editing? There are already a ton of resources out there that cover editing, but there are a couple of things that I want to point out. The first is time, which is interesting with serialized works in that you usually have a deadline (although what I'm about to write probably applies to freelance work as well). When you write something, if you read it immediately afterwards, you will see what you meant and not what you wrote, which is where you get things like missing prepositions and such. In addition, time gives you emotional distance. If you are unable to cut an unnecessary passage because you simply love it too much, then you are doing yourself and your readers a disservice. How much time you need is up to you. Personally, a few days for a chapter is good enough for me, but a short story may need a week or more. In general, the longer the work, the longer the period you must wait before touching it again.
+
+The second point is reading it aloud. You should read your work aloud for at least one of your edits (preferably one of your later edits, so that you don't have to stop as often to make notes). I had been doing this for a while, but the other day, I read a [post](http://walterjonwilliams.blogspot.com/2007/08/thin-man-thin-book.html "Thin Man, Thick Plot") over at Walter Jon Williams' blog, Angel Station, that was talking about audio books. He says that when a passage is read aloud, every little error sticks out and every awkward sentence is unbearable, which is exactly what you want when you edit.
+
+Finally, I would say that as you are publishing your work online, it is up to you to make sure that your work looks professional, because no one else is going to do it for you. That means not putting out your work when its "good enough", but making sure that it is as close to perfect as you can get it. Frankly, I am guilty of being a slacker in this area, and a lot of that is because I didn't keep to a writing schedule and had to rush to get something out. I'm not proud of this, and I realize that, to some degree, it is inevitable. The important part is that you are aware of what is working for you and what is not, as that is the only way to really progress.

@@ -1,0 +1,10 @@
+- name: Blog
+  link: /
+- name: Stories
+  link: /stories.html
+- name: Projects
+  link: /projects.html
+- name: About Me
+  link: /about.html
+- name: Subscribe
+  link: /subscribe.html

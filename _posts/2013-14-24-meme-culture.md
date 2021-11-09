@@ -1,0 +1,17 @@
+---
+title: "Meme Culture"
+date: "2013-04-24"
+author: tom
+---
+
+Sometime last year, I stumbled across a [blog post](http://www.lbgale.com/2012/07/29/the-tamarian-takeover-memes-and-language/) about how Star Trek had prefigured the direction our language and culture is heading in. In essence, there was an episode that dealt with a race that communicated purely by metaphor, the author then compared this to the rise of memes and reaction gifs. Of course, these things were around long before that post was written, but it wasn't until I read it that I saw the connection between memes and language. And now I can't unsee it.
+
+More and more, I see emails and facebook posts that consist of nothing but a meme or reaction gif. These things can be fun, and I know that I've spent my share of time looking at lolcats, but when they become a substitute for communication, I begin to worry. These things are sort of like the graphic equivalent of cliches. Both are useful for expressing a common sentiment to someone who shares the same cultural frame of reference to yourself, both make it difficult to say anything interesting, novel, or memorable. The main difference is that I would guess that there are fewer memes/reaction gifs than there are cliches, due to the higher cost of production and the shrinking half-life of popular culture phenomena.
+
+To be clear, I am not worried that using memes and reaction gifs will start us on the slippery slope to complete illiteracy. Rather, I feel that their use constitutes a vocabulary of expression, and a small one at that. The capacity of expression of ideas and sentiments seems as though it could limit the occurrence of them, or put another way, if you cannot express something, how fully can you be said to experience it?
+
+On the other hand, if you're reading this, you speak the English language, and if those upstarts over at Oxford Dictionaries are to be [believed](http://oxforddictionaries.com/us/words/how-many-words-are-there-in-the-english-language), "there are, at the very least, a quarter of a million distinct English words, excluding inflections, and words from technical and regional vocabulary not covered by the _OED_, or words not yet added to the published dictionary". This number likely also doesn't include cool untranslatable words like [fingerspitzengefühl](http://en.wikipedia.org/wiki/Fingerspitzengefühl), or neologisms (look at what Shakespeare did to the English language). Taken together and considering that most things will be expressed by a combination of words, and the possibilities appear to be virtually endless.
+
+The Devil's Advocate in me responds to all this by saying that creativity is often the result of artificial limitations, and so reducing our vocabulary to a handful of memes might actually act as a font of creative expression. I would have to disagree. As a culture, we use memes as a shorthand for complex ideas and sentiments, as a shortcut. Words, on the other hand, are hard to use well, much like representing three dimensional objects on a two dimensional medium. As such, it would seem that words are inherently more limiting, and thus more beneficial to creativity (which also helps to explain why we have a quarter million of them in the English language).
+
+So the next time you feel the urge to reach for that comfortable meme, take a moment and do yourself and your culture a favor. Just put it into words. Don't worry, we won't run out any time soon.
