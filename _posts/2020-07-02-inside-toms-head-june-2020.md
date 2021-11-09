@@ -41,7 +41,7 @@ Although I would prefer to live in a society where there is no need for police, 
 - Not a whole lot going on for me. Going back to work and the protests kind of sidetracked me, mentally.
 - I'm going to start linking books via [WorldCat](https://worldcat.org) and movies via [The Movie Database](https://www.themoviedb.org/) (since IMDB is owned by Amazon now and I'm not comfortable with corporations profiting off of volunteer work that was intended to create a free resource).
 - No new fiction, but I have a piece of flash fiction that I'm hoping to post sometime in July (I wrote it quite a while ago).
-- I shared my [Netrunner Mobile Random Card]({% link _projects/netrunner-random-card.md %}) project with Reddit and got a pretty good response. On their suggestion, I [posted it on GitHub](https://github.com/pawnstorm-runner/netrunner-mobile-random-card) as well. I haven't had time to do much work on it last month, but I hope to make some progress in July.
+- I shared my [Netrunner Mobile Random Card]({{ "/projects/netrunner-random-card.md " | relative_url}}) project with Reddit and got a pretty good response. On their suggestion, I [posted it on GitHub](https://github.com/pawnstorm-runner/netrunner-mobile-random-card) as well. I haven't had time to do much work on it last month, but I hope to make some progress in July.
 - I didn't get around to recommending anything. I still have hope to be able to do it on a regular basis. The rest of the world just needs to calm down a bit first.
 
 ## New Stuff Elsewhere
