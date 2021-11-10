@@ -3,7 +3,7 @@ title: Pawnstorm Digital Press
 ---
 <div class="blogGrid")>
   {% for post in site.posts %}
-    <div class="listTitle"><a href="{{ {{ post.url }}" class="list">{{post.title}}</a></div>
+    <div class="listTitle"><a href="{{ {{ site.baseurl }}{{ post.url }}" class="list">{{post.title}}</a></div>
     <div class="date lastColumn"><a href="{{ post.url }}" class="list">{{ post.date | date: "%Y-%m-%d" }}</a></div>
   {% endfor %}
 </div>
