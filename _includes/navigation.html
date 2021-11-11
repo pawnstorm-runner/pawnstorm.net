@@ -2,7 +2,7 @@
   <div class="navGrid">
     {% for item in site.data.navigation %}
       <div class="navlink">
-        <a href="{{ item.link }}"
+        <a href="{{ site.baseurl }}{{ item.link }}"
           {% if page.url == item.link %}class="current nav"
           {% elsif item.name == "Blog" and page.collection == "posts" %}class="current nav"
           {% elsif item.name == "Stories" and page.collection == "stories" %}class="current nav"

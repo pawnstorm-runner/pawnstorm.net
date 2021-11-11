@@ -6,15 +6,15 @@ layout: default
 {{ content }}
 
 <hr />
-<div class="centeredText"><a href="{% link _stories/horizon.md %}">Return to Horizon Station home</a></div>
+<div class="centeredText"><a href="{{ site.baseurl }}stories/horizon.md">Return to Horizon Station home</a></div>
 <div class="PageNavigation">
   {% if page.previous.url %}
-    <a class="next nav" href="{{page.previous.url}}">&laquo; {{page.previous.title}}</a>
+    <a class="next nav" href="{{ site.baseurl }}{{page.previous.url}}">&laquo; {{page.previous.title}}</a>
   {% else %}
     This is the first story.
   {% endif %}
   {% if page.next.url %}
-    <a class="prev nav" href="{{page.next.url}}">{{page.next.title}} &raquo;</a>
+    <a class="prev nav" href="{{ site.baseurl }}{{page.next.url}}">{{page.next.title}} &raquo;</a>
   {% else %}
     This is the last story (so far).
   {% endif %}
