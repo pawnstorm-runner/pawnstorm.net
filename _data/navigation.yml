@@ -1,10 +1,10 @@
 - name: Blog
-  link: /pawnstorm.net/
+  link: /
 - name: Stories
-  link: /pawnstorm.net/stories.html
+  link: /stories.html
 - name: Projects
-  link: /pawnstorm.net/projects.html
+  link: /projects.html
 - name: About Me
-  link: /pawnstorm.net/about.html
+  link: /about.html
 - name: Subscribe
-  link: /pawnstorm.net/subscribe.html
+  link: /subscribe.html
