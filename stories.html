@@ -2,7 +2,7 @@
 title: Stories
 ---
 {% for story in site.stories %}
-  <div class="listTitle singleLine storyTitle"><a href="{{ story.url }}" class="list">{{ story.title }}</a></div>
+  <div class="listTitle singleLine storyTitle"><a href="{{ site.baseurl }}{{ story.url }}" class="list">{{ story.title }}</a></div>
   <div class="storyGrid">
     <div class="hideOverflow">{{ story.genre }}</div>
     <div class="lastColumn">
