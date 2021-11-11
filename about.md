@@ -5,7 +5,7 @@ title: About
 
 <img src="assets/avatar.jpg" style="float: left" alt="This is what I look like on the internet.">
 
-My name is Tom Dillon. When I'm not working [I write stories]({% link stories.html %}), ride my bike a lot, read books, climb rocks, and play (too many) board games. I have an amazing family and we live with a bunch of cats. Generally I want to spend less time noodling on my phone and more time writing and [making things]({% link projects.html %}).
+My name is Tom Dillon. When I'm not working [I write stories]({{ site.baseurl }}/stories.html), ride my bike a lot, read books, climb rocks, and play (too many) board games. I have an amazing family and we live with a bunch of cats. Generally I want to spend less time noodling on my phone and more time writing and [making things]({{ site.baseurl }}/projects.html).
 
 To avoid spambots, I'm not going to post my email address here. Eventually I'm going to figure out a better way, but in the meantime you can probably guess that I have an email address that consists of my first name at this domain.
 

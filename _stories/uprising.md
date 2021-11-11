@@ -21,4 +21,4 @@ In the next few moments, before the video source was cut off, Ethan watched in d
 
 ---
 
-**Note**: *I wrote this scene back in 2008 and really liked it. A lot of it came out of my experiences at protests as a member of the ISO, in particular working security while protesting the execution of Stan "Tookie" Williams, looking at the ranked cops in riot gear and thinking that all it would take is one yahoo with a bottle and I wouldn't be going home that night. Eventually I followed it up with [Soapbox]({% link _stories/soapbox.md %}) and have been wanting to get back to it ever since.*
+**Note**: *I wrote this scene back in 2008 and really liked it. A lot of it came out of my experiences at protests as a member of the ISO, in particular working security while protesting the execution of Stan "Tookie" Williams, looking at the ranked cops in riot gear and thinking that all it would take is one yahoo with a bottle and I wouldn't be going home that night. Eventually I followed it up with [Soapbox]({{ site.baseurl }}/stories/soapbox.html) and have been wanting to get back to it ever since.*
