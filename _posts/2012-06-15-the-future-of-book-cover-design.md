@@ -12,4 +12,4 @@ This is the point where the essay could have gone off the rails, lamenting about
 
 What is the future of book covers? Who knows. But I, for one, am excited to see where this leads.
 
-If you're interested in cover design, I have written a couple of posts on the basics of cover design, which you might want to check out: [DIY e-book Covers 101]({{ site.baseurl }}/2012-02-06-diy-e-book-covers-101.html) and [DIY e-book Covers 102]({{ site.baseurl }}/2012-02-22-diy-e-book-covers-102.html).
+If you're interested in cover design, I have written a couple of posts on the basics of cover design, which you might want to check out: [DIY e-book Covers 101]({{ site.baseurl }}/2012/02/06/diy-e-book-covers-101.html) and [DIY e-book Covers 102]({{ site.baseurl }}/2012/02/22/diy-e-book-covers-102.html).

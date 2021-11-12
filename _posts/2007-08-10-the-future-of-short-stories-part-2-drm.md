@@ -20,4 +20,4 @@ Short story markets have pretty much been on a steady [decline](http://www.scalz
 
 The problem, then, is how do you build a new market? We'll talk about that next week.
 
-[Part 3]({{ site.baseurl }}/2007-08-13-the-future-of-short-stories-part-3-conclusion.html) is now online.
+[Part 3]({{ site.baseurl }}/2007/08/13/the-future-of-short-stories-part-3-conclusion.html) is now online.

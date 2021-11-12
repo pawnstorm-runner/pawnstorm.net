@@ -4,7 +4,7 @@ date: "2007-08-08"
 author: tom
 ---
 
-Over the weekend, I wrote a piece about [why short stories are still important]({{ site.baseurl }}/2007-08-05-why-short-stories-are-still-important.html). In it, I mentioned that I would write more about the future of short fiction, this is the first part of that.
+Over the weekend, I wrote a piece about [why short stories are still important]({{ site.baseurl }}/2007/08/05/why-short-stories-are-still-important.html). In it, I mentioned that I would write more about the future of short fiction, this is the first part of that.
 
 If you look at TV shows today and compare them to shows a decade ago, you would probably find that the type of shows that are on have changed. A decade ago, TV was dominated by loosely joined self contained shows (think Friends or Seinfeld), today it is dominated by shows with strong, detailed plots (think Heroes, Alias, Lost, etc.). What happened?
 

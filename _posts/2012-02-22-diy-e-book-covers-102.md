@@ -4,7 +4,7 @@ date: "2012-02-22"
 author: tom
 ---
 
-As I mentioned in my [first post]({{ site.baseurl }}/2012-02-06-diy-e-book-covers-101.html) on the subject, you can do a lot with nothing but text on your covers. There are four things (in my opinion) to think about when dealing with text: font, size, placement, and effects. I will go through each of them in turn below. Keep in mind that these are all guidelines, and that once you know what you are doing, you can break them.
+As I mentioned in my [first post]({{ site.baseurl }}/2012/02/06/diy-e-book-covers-101.html) on the subject, you can do a lot with nothing but text on your covers. There are four things (in my opinion) to think about when dealing with text: font, size, placement, and effects. I will go through each of them in turn below. Keep in mind that these are all guidelines, and that once you know what you are doing, you can break them.
 
 #### Font
 
