@@ -15,6 +15,7 @@ I don't really have much of a presence on traditional social media, since it is 
 
 - If you want to see (most of) the articles that I'm reading, you can see them (and occasionally what I thought of them) on my [blurblog](http://pawnstorm.newsblur.com/). If you need an RSS reader, I've been pretty happy with newsblur ever since Google killed Reader. Keep in mind that a lot of the stuff I share there will eventually end up in an "Inside Tom's Head" post.
 - If you want to see what I'm listening to, you can follow me on Apple Music. My user name there is [@tom_dillon](https://music.apple.com/profile/tom_dillon).
+- I log all of [my board game plays](https://boardgamegeek.com/geekplay.php?userid=370399&redirect=1&startdate=&dateinput=&dateinput=&enddate=&action=bydate&subtype=boardgame) on BoardGameGeek and you can see my (out of date) [profile](https://boardgamegeek.com/user/pawnstorm) there, too.
 
 ## About This Site
 
