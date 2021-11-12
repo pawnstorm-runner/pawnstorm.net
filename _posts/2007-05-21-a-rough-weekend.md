@@ -3,7 +3,7 @@ title: "A Rough Weekend"
 date: "2007-05-21"
 ---
 
-Before I really get into what I want to say, I need to give some acknowledements. First, and always foremost, I need to thank my beautiful, talented, supportive and generally awesome wife, Jennifer. Without you, I do not know where I would be today, but I do know this: I would not be writing and I would not be happy. No matter how often I say this, it is not often enough. Second, I need to thank people like Mur Lafferty (of I Should Be Writing), Michael Stackpole (The Secrets) and Cory Doctorow, who helped me realize that there is nothing exclusive about writing, anyone can do it.
+Before I really get into what I want to say, I need to give some acknowledgments. First, and always foremost, I need to thank my beautiful, talented, supportive and generally awesome wife, Jennifer. Without you, I do not know where I would be today, but I do know this: I would not be writing and I would not be happy. No matter how often I say this, it is not often enough. Second, I need to thank people like Mur Lafferty (of I Should Be Writing), Michael Stackpole (The Secrets) and Cory Doctorow, who helped me realize that there is nothing exclusive about writing, anyone can do it.
 
 What brings this post up? On Wednesday, I went to a reading given by Cory Doctorow and Rudy Rucker, which was fantastic. There, I bought Cory's collection of short stories, [Overclocked](http://www.craphound.com "Craphound"), when I got home, I started reading it, and was just blown away. The book is fantastic, I've read all but two of them, and I don't think that its too much of a stretch to say that this is some of the best short fiction I've ever read. So what's the problem, you ask?
 
