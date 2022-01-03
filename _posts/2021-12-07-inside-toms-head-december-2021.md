@@ -1,7 +1,7 @@
 ---
 layout: post
 author: tom
-title: Inside Tom's Head - December 2021
+title: Inside Tom's Head - November 2021
 ---
 Not a whole lot to report for November. I made a list of some of [my favorite board games](http://pawnstorm.net/2021/11/25/board-game-top-ten-2021.html) that's slightly different from most top 10 lists. I'm still enjoying my new job and have started work on figuring out what I want the next 15-20 years of my working life to look like. I started using an [Upright Go](https://www.uprightpose.com/) and have been using it. I'm not sure if it is quite what I had hoped, but my experience has been generally positive and I'll have more to say about it in the future. In other news, the hot tub that we ordered back during the summer is now fully operational and is amazing. Anyway, here's what I've been reading, watching, listening, and thinking about for the past month.
 
