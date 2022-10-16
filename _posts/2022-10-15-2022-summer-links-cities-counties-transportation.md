@@ -1,7 +1,7 @@
 ---
 layout: post
 author: tom
-title: 2022 Summer Links: Cities, Counties, and Transportation
+title: 2022 Summer Links - Cities, Counties, and Transportation
 ---
 You might have noticed that I haven't posted anything here in a while. You might also be wondering why that is. The short version is that I had a busy summer. We did a lot of camping, had a lot of family time, and got a lot of things done.
 
