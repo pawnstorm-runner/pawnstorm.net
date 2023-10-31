@@ -1,7 +1,7 @@
 ---
 layout: post
 author: tom
-title: The Wealth of Communities
+title: What I Learned While Learning Trackstands
 ---
 For the past few months I’ve been practicing trackstands, and have gone from being able to balance on my bike for about 5 seconds to being able to reliably balance for 30 seconds or more (my current personal best is about 1:15). Here’s what I’ve learned in the process.
 
